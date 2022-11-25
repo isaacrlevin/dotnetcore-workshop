@@ -1,4 +1,4 @@
-# .NET 6 Microservice (1 hour)
+# .NET 7 Microservice (1 hour)
 
 ## Prerequisites
 
@@ -8,8 +8,8 @@
 
 > Okay, we've got a cool, lightweight, cross-platform framework, what can we do with it? How about building out and deploying a microservices architecture? We'll also cover some more advanced requirements, like health checks, orchestration, and deployment.
 
-## .NET 6 on Docker
-For this lab, use the [Building Docker Images for .NET 6 Applications
+## .NET 7 on Docker
+For this lab, use the [Building Docker Images for .NET 7 Applications
 ](https://docs.microsoft.com/en-us/dotnet/articles/core/docker/building-net-docker-images) tutorial.
 
 ## Visual Studio Docker Tools

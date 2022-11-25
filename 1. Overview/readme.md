@@ -1,6 +1,6 @@
 # Overview, Tools and Acquisition (30 minutes)
 
-> We'll get started with a quick overview of .NET 6: what it is, why you should care, and how to get set up to start using it.
+> We'll get started with a quick overview of .NET 7: what it is, why you should care, and how to get set up to start using it.
 
 ## Prerequisites
 
@@ -16,13 +16,13 @@ You can check to see what workloads you have installed by just running the insta
 * Download [Visual Studio Code](https://code.visualstudio.com)
 * Install the Live Share Extension
 
-### .NET 6 SDK
+### .NET 7 SDK
 
-Install [the latest .NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) for your operating system.
+Install [the latest .NET 7 SDK](https://dotnet.microsoft.com/download/dotnet/7.0) for your operating system.
 
 ## Overview Presentation
 
-### Creating a new .NET 6 console application using Command Line tools
+### Creating a new .NET 7 console application using Command Line tools
 
 1. From the command line, run `dotnet new console`
 1. Type `dotnet run` to run the application. You'll see a simple "Hello World" message.
@@ -34,10 +34,10 @@ Install [the latest .NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0
 1. Change the "Hello World" message to "Hello .NET".
 1. Switch to the console and type `dotnet run` to to see the update.
 
-### Creating a new .NET 6 application using Visual Studio 2022
+### Creating a new .NET 7 application using Visual Studio 2022
 
-1. Follow the steps in the [Building a complete .NET 6 solution on Windows, using Visual Studio 2022](https://docs.microsoft.com/en-us/dotnet/articles/core/tutorials/using-on-windows-full-solution) tutorial.
-    > Note: If you'd like simpler one to get started, you can first complete the [Building a C# Hello World application with .NET 6 in Visual Studio 2022](https://docs.microsoft.com/en-us/dotnet/articles/csharp/getting-started/with-visual-studio) tutorial.
+1. Follow the steps in the [Building a complete .NET 7 solution on Windows, using Visual Studio 2022](https://docs.microsoft.com/en-us/dotnet/articles/core/tutorials/using-on-windows-full-solution) tutorial.
+    > Note: If you'd like simpler one to get started, you can first complete the [Building a C# Hello World application with .NET 7 in Visual Studio 2022](https://docs.microsoft.com/en-us/dotnet/articles/csharp/getting-started/with-visual-studio) tutorial.
 
 ### Extra Credit: Create a Class Library and Xunit test solution
 

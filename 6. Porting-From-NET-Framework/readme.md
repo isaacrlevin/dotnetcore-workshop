@@ -1,6 +1,6 @@
 # Porting From .NET Framework (30 minutes)
 
-> In this session, we'll overview how to update existing code from the full .NET Framework to .NET 6. We'll help you understand which code can and can't port eaisly, and we'll go through some real world porting examples.
+> In this session, we'll overview how to update existing code from the full .NET Framework to .NET 7. We'll help you understand which code can and can't port eaisly, and we'll go through some real world porting examples.
 
 ## Optional Lab: Porting an ASP.NET application to ASP.NET Core 6.0
 1. Create a new ASP.NET MVC 5 application in Visual Studio.

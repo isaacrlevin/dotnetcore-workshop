@@ -1,4 +1,4 @@
-Are you ready to get started with .NET 6? Learn the skills that will make you successful in building .NET applications no matter what operating system you are targeting. We’ll start with an overview of the framework and development tools, dig into ASP.NET Core web development, look at developing desktop and mobile applications, overview code reuse across frameworks, and show you what you need to know to update from the .NET Framework to .NET 6. Bring your laptop and roll up your sleeves for this full day of instructor-led training.
+Are you ready to get started with .NET 7? Learn the skills that will make you successful in building .NET applications no matter what operating system you are targeting. We’ll start with an overview of the framework and development tools, dig into ASP.NET Core web development, look at developing desktop and mobile applications, overview code reuse across frameworks, and show you what you need to know to update from the .NET Framework to 7. Bring your laptop and roll up your sleeves for this full day of instructor-led training.
 
 ## Schedule
 
@@ -14,7 +14,7 @@ N/A |12:00 AM | 1:00 PM  | Lunch
 N/A | 3:00 PM  | 4:00 PM  | After Hours
 
 ## Where to go next
- * [http://dot.net](http://dot.net) - .NET 6 overview, tutorials, links
+ * [http://dot.net](http://dot.net) - .NET 7 overview, tutorials, links
  * [http://docs.microsoft.com](http://docs.microsoft.com) - All the docs, tutorials, more!
  * [ASP.NET Documentation](https://docs.microsoft.com/en-us/aspnet/)
  * [.NET Standard docs](https://docs.microsoft.com/en-us/dotnet/articles/standard/library)
