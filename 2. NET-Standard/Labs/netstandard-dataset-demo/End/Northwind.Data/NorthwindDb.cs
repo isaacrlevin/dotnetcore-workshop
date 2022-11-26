@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Data;
+using System.IO;
 using System.Linq;
 using NQuery;
 
@@ -11,7 +12,7 @@ namespace Northwind
         {
             var result = "";
             var dataSet = new DataSet();
-            dataSet.ReadXml(@"C:\demos\northwind.xml");
+            dataSet.ReadXml(@"C:\temp\northwind.xml");
 
             var dataContext = new DataContext();
             dataContext.AddTablesAndRelations(dataSet);

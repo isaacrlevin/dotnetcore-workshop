@@ -5,6 +5,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="northwind.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="northwind.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="NQuery" Version="0.9.5-beta" />
   </ItemGroup>
 
