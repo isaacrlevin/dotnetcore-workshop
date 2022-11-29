@@ -14,3 +14,6 @@
 
 ## MAUI Lab
 1. Follow steps in [this tutorial](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/)
+
+### Videos
+https://www.youtube.com/watch?v=J7bWH9LyaoU
