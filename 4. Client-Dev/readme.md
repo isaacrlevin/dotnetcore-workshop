@@ -11,4 +11,4 @@
 1. Inspect the code, modify and re-run if desired.
 
 ### New .NET MAUI App!!!!
-1. Follow steps in [this tutorial](https://docs.microsoft.com/en-us/dotnet/maui/get-started/first-app)
+1. Follow steps in [this tutorial](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/)
