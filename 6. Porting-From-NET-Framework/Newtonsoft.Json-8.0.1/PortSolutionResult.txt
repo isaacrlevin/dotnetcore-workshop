@@ -1,0 +1,97 @@
+==========
+References
+==========
+System
+Newtonsoft.Json.Bson
+System.Text
+System.IO
+System.Globalization
+Newtonsoft.Json.Utilities
+Newtonsoft.Json
+Newtonsoft.Json.Serialization
+System.Collections.Generic
+System.Collections
+System.Numerics
+Newtonsoft.Json.Converters
+System.Data.SqlTypes
+System.Data
+System.Reflection
+System.Linq
+Newtonsoft.Json.Linq
+System.Dynamic
+System.Text.RegularExpressions
+System.Xml
+System.Xml.Linq
+System.Threading.Tasks
+Newtonsoft.Json.Schema
+System.Runtime.Serialization
+System.Runtime.Serialization.Formatters
+System.Collections.ObjectModel
+System.Diagnostics
+System.Runtime.CompilerServices
+System.ComponentModel
+System.Collections.Specialized
+System.Threading
+System.Linq.Expressions
+Newtonsoft.Json.Linq.JsonPath
+System.Security
+System.Security.Permissions
+System.Reflection.Emit
+Newtonsoft.Json.Serialization.ErrorEventArgs
+System.Runtime.InteropServices
+System.Collections.Concurrent
+System.Xml.Serialization
+System.Diagnostics.Trace
+project.all
+
+===============
+DownloadedFiles
+===============
+project.all.json
+system.collections.specialized.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: D:\dev\Demos\dotnetcore-workshop\6. Porting-From-NET-Framework\Newtonsoft.Json-8.0.1\Newtonsoft.Json\Newtonsoft.Json.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\dev\Demos\dotnetcore-workshop\6. Porting-From-NET-Framework\Newtonsoft.Json-8.0.1\Newtonsoft.Json\Newtonsoft.Json.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+
+===========
+BuildErrors
+===========
+
+

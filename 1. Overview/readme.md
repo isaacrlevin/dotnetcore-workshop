@@ -1,26 +1,31 @@
-# Overview, Tools and Acquisition (30 minutes)
+# Overview, Tools and Acquisition
 
 > We'll get started with a quick overview of .NET 7: what it is, why you should care, and how to get set up to start using it.
 
 ## Prerequisites
 
-### Visual Studio 2022 Preview
-It’s best if you have Visual Studio 2022 17.1 Preview 1 (free Community level is fine), since there are some new desktop tooling enhancements in the recent previews. You’ll need the following workloads:
+### Visual Studio 2022 Community
+It’s best if you have the latest Visual Studio 2022 (free Community level is fine), since there are some new desktop tooling enhancements in the recent previews. You’ll need the following workloads:
  * ASP.NET and web development
  * .NET desktop development
- * Mobile development with .NET
+ * .NET Multi-platform App UI development
 
-You can check to see what workloads you have installed by just running the installer (from the start menu, bring up Visual Studio Installer and click on Modify for Visual Studio 2022 Preview if installed).
+You can check to see what workloads you have installed by just running the installer (from the start menu, bring up Visual Studio Installer and click on Modify for Visual Studio 2022 if installed).
 
 ### Visual Studio Code
 * Download [Visual Studio Code](https://code.visualstudio.com)
-* Install the Live Share Extension
 
 ### .NET 7 SDK
 
 Install [the latest .NET 7 SDK](https://dotnet.microsoft.com/download/dotnet/7.0) for your operating system.
 
-## Overview Presentation
+### Container Tools
+
+- [Git](https://git-scm.com/downloads)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install)
+
+## Small Labs if you Like
 
 ### Creating a new .NET 7 console application using Command Line tools
 

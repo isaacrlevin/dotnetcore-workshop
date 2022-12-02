@@ -1,4 +1,4 @@
-# .NET 7 Microservice (1 hour)
+# .NET 7 Microservice
 
 ## Prerequisites
 
@@ -15,9 +15,6 @@ For this lab, use the [Building Docker Images for .NET 7 Applications
 ## Visual Studio Docker Tools
 For this lab, use the [Visual Studio Tools for Docker
 ](https://docs.microsoft.com/en-us/dotnet/articles/core/docker/visual-studio-tools-for-docker) tutorial.
-
-## eShopOnContainers
-For this lab, we'll be working through the [Setting eShopOnContainer solution up in a Visual Studio 2022 environment](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Windows-setup) tutorial.
 
 ## Optional Lab
 [Development workflow for Docker apps](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/docker-application-development-process/docker-app-development-workflow)

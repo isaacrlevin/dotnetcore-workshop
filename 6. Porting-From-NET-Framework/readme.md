@@ -1,9 +1,11 @@
-# Porting From .NET Framework (30 minutes)
+# Porting From .NET Framework
 
 > In this session, we'll overview how to update existing code from the full .NET Framework to .NET 7. We'll help you understand which code can and can't port eaisly, and we'll go through some real world porting examples.
 
-## Optional Lab: Porting an ASP.NET application to ASP.NET Core 6.0
-1. Create a new ASP.NET MVC 5 application in Visual Studio.
-1. Following the steps of [this tutorial](https://docs.microsoft.com/en-us/dotnet/core/porting/upgrade-assistant-aspnetmvc), see if you can port the a new .NET Framework application to ASP.NET Core 6.0.
+## Optional Lab: Porting a class library from .NET Framework to .NET 6
 
-> *Note*: You might not have time to complete the port in the time allotted. You can come back to it later in the day, or bring it home for homework. The important part is to understand the overall steps involved, not to complete the port.
+1. [Download Porting Assistant for .NET from AWS](https://aws.amazon.com/porting-assistant-dotnet/)
+1. Open Porting Assistant .NET Framework Version of Newtonsoft.Json from this repo
+1. Assess Solution and navigate through the assessment
+1. Port Solution to new directory
+1. Reference that new project in a .NET 6 Console Application and see if it works!
